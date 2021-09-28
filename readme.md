@@ -2,6 +2,8 @@
 
 ### Dataset:
 The dataset contains 113,937 loans with 81 features including (EmploymentStatus, LoanStatus, BorrowerAPR, IncomeRange, CreditGrade, Investors and many others features)
+URL of Dataset:<a> https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv </a>
+
 
 ### Summary of Findings
 In the exploration,The distribution of Investors looks a right-skewed : A large peak centered at 0 - 200.  Only very few loans have Investors greater than 600.
